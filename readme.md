@@ -17,7 +17,7 @@ $ yarn install:all
 This package only requires one command to develop:
 
 ```
-yarn start:all
+yarn dev
 ```
 
 [Yarn Workspaces]: https://yarnpkg.com/lang/en/docs/workspaces/
