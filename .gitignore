@@ -1,0 +1,14 @@
+**/node_modules
+
+packages/*/*
+!packages/*/__test__
+!packages/*/src
+!packages/*/lib
+!packages/*/scripts
+!packages/*/.env
+!packages/*/.babelrc
+!packages/*/.storybook
+!packages/*/*.md
+!packages/*/package.json
+!packages/*/rollup.config.js
+!packages/*/public
